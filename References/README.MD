@@ -1,25 +1,35 @@
 Reference
 ==========
-
 Ongoing compilation of list of References for the workshop.
 
-Jump to: [Design Process & Ethics (How)](), [Designed Product & Ethics (What)]()
+Jump to: 
 
-###Design Process & Ethics (How)
-Possible topics: Workplace, Employment, SPEC work, Rip-off vs Due credit etc.
+###1. Philosophical & Historical perspective
 
-####Code of Conduct
+- Discuss the terms and their meanings.
 
-######[No!Spec](http://www.nospec.com/)
-Useful reference on SPEC (Speculative/free work)
+######[The difficulty of being good (Amazon)](http://www.amazon.com/The-Difficulty-Being-Good-Subtle/dp/0199754411) by Gurucharan Das ([Wikipedia](http://en.wikipedia.org/wiki/Gurcharan_Das), [Contact](http://gurcharandas.org/contact))
+On the subtle art of dharma which analyses the epic, Mahabharata.
 
-###Designed Product & Ethics (What)
-Possible topics: Dark UX Patterns, Unethical advertisements etc.
+######[The Nicomachean Ethics (Wikipedia)](http://en.wikipedia.org/wiki/Nicomachean_Ethics) by Aristotle
+Considered basis of Christianity. Can be read online on [Adelaide.edu](https://ebooks.adelaide.edu.au/a/aristotle/nicomachean/complete.html), MIT ([Book-wise](http://classics.mit.edu/Aristotle/nicomachaen.html), [txt file](http://classics.mit.edu/Aristotle/nicomachaen.mb.txt)).
 
-####Dark Patterns
+######[Ethics in Design](http://www.davidairey.com/ethics-in-design/#comment-166135) by David Airey
+Nice discussion around ethics vs morals by Andy Rutledge in the comments.
 
-######[EU bans pre-ticked website boxes to aid consumers](http://www.bbc.com/news/world-europe-15260748)
-"_Pre-ticked_" boxes on shopping websites will be banned in European Union states under newly approved legislation.
+###2. Behavioral Psychology
+
+- Historical references: Both good & bad uses
+- Nudge
+- Recent: Scientific studies on What motivates people?
+- Defaults, Choice & Free Will
+- Old heuristics (Norman)
+- Rationale for common practices
+
+###3. Case Studies
+
+######[Evil by Design](http://evilbydesign.info/)
+57 persuasive design patterns showcasing how companies manipulate us, categorized as the 7 sins: Pride, Sloth, Gluttony, Anger, Envy, Lust & Greed.
 
 ######[Dark Patterns in UI Design](http://darkpatterns.org/)
 **List of Patterns**: Bait and Switch, Disguised Ads, Faraway Bill, Forced Continuity, Forced Disclosure, Friend Spam, Hidden Costs, Misdirection, Price Comparison Prevention, Privacy Zuckering, Roach Motel, Road Block, Sneak into Basket, Trick Questions.
@@ -27,16 +37,39 @@ Possible topics: Dark UX Patterns, Unethical advertisements etc.
 ######[Malicious Interface Design: Exploiting the User](http://www.westpoint.edu/eecs/SiteAssets/SitePages/Biography%20Documents/p271-conti.pdf)
 Paper by Gregory Conti & Edward Sobiesk. Useful Taxonomy of Malicious Interface Design Techniques.
 
-####Checklists
+######[EU bans pre-ticked website boxes to aid consumers](http://www.bbc.com/news/world-europe-15260748)
+"_Pre-ticked_" boxes on shopping websites will be banned in European Union states under newly approved legislation.
 
-######[IxD Checklist](http://ixdchecklist.com/)
-Covers aspects of Interface, Iconography, Typography, Interaction, Navigation.
+
+###4. Business Propositions
+
+- Short term gains vs long term goals
+- Open discussion - What practices would you consider wrong?
+- One sided/biased view because of only neagtive feedback highlighted?
+- For ex: BigBazaar promotional mails & SPAM (and unsubscription as a way to confirm active account)
+- Mobile VAS activations & fraud (Charts & more on [Medianama](www.medianama.com/2014/11/223-mobile-vas-fraud-is-back/))
+
+###5. Current work wr.t. Ethics in UI/UX Design
+*(Shifted from the previous #3 order)*
+
+References around guidelines/rules (similar to what we aim to do)
+
+###6. Workshop: Generate draft guidelines/manifesto
+
+-----
+
+####Discarded topics (can feature as smaller discussions):
+######*Design Process & Ethics (How)*
+Possible topics: Workplace anecdotes, HR/Employment practices, SPEC work, Giving due credit/(c) claims vs rip-offs etc.
+
+[No!Spec](http://www.nospec.com/): Useful reference on SPEC (Speculative/free work)
+
+######*Checklists*
+[IxD Checklist](http://ixdchecklist.com/): Covers aspects of Interface, Iconography, Typography, Interaction, Navigation.
 
 ###Uncategorized references
 
 ####Sites
-
-http://darkpatterns.org/
 
 http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design
 
@@ -64,7 +97,7 @@ Mike Monteiro speaking about designers taking responsibility for their work.
 ######[Everyone deserves Good Design](http://www.everyonedeservesgreatdesign.com/#now)
 Ehsan Nour-salehi talking about how good intentions with a wrong mindset leads to the design of products for people that don't want them.
 
-Codes:
+Code of conduct:
 http://www.ieee.org/about/corporate/governance/p7-8.html
 http://www.acm.org/about/code-of-ethics
 http://www.nspe.org/resources/ethics/code-ethics
