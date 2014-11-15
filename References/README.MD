@@ -14,8 +14,38 @@ On the subtle art of dharma which analyses the epic, Mahabharata.
 ######[The Nicomachean Ethics (Wikipedia)](http://en.wikipedia.org/wiki/Nicomachean_Ethics) by Aristotle
 Considered basis of Christianity. Can be read online on [Adelaide.edu](https://ebooks.adelaide.edu.au/a/aristotle/nicomachean/complete.html), MIT ([Book-wise](http://classics.mit.edu/Aristotle/nicomachaen.html), [txt file](http://classics.mit.edu/Aristotle/nicomachaen.mb.txt)).
 
-######[Ethics in Design](http://www.davidairey.com/ethics-in-design/#comment-166135) by David Airey
-Nice discussion around ethics vs morals by Andy Rutledge in the comments.
+#####On Ethics vs Morals:
+
+> Ethics are beholden to or guided by the codified societal strictures: laws and professional codes. 
+> Morals are deeper and relate to personal values.
+>
+> Ethics distinguish between outward socially appropriate behaviors in practice.
+> Morals distinguish between right and wrong. 
+>
+> Example: Tobacco is legal, so there is nothing unethical about working with a tobacco company.
+> A choice to not work with a tobacco company is a personal values choice based on morals.
+
+[Ethics in Design](http://www.davidairey.com/ethics-in-design/#comment-166146) by David Airey
+Nice discussion around ethics vs morals by Andy Rutledge in comments. (Who also points out that [no code of ethics can work](http://www.davidairey.com/ethics-in-design/#comment-166157) for a field like design).
+
+> Morals are how you treat people you know.  Ethics are how you treat people you don’t know. [Ian Welsh: Ethics 101](http://www.ianwelsh.net/ethics-101-the-difference-between-ethics-and-morals/)
+
+|   | Ethics | Morals |
+|---| ------ | ------ |
+| What are they? | The rules of conduct recognized in respect to a particular class of human actions or a particular group or culture. | Principles or habits with respect to right or wrong conduct. While morals also prescribe dos and don'ts, morality is ultimately a personal compass of right and wrong. |
+| Where do they come from? | Social system - External | Individual - Internal |
+| Why we do it? | Because society says it is the right thing to do. | Because we believe in something being right or wrong. |
+| Flexibility | Ethics are dependent on others for definition. They tend to be consistent within a certain context, but can vary between contexts. | Usually consistent, although can change if an individual’s beliefs change. |
+| The "Gray" | A person strictly following Ethical Principles may not have any Morals at all. Likewise, one could violate Ethical Principles within a given system of rules in order to maintain Moral integrity. | A Moral Person although perhaps bound by a higher covenant, may choose to follow a code of ethics as it would apply to a system. "Make it fit" |
+| Origin | Greek word "ethos" meaning"character" | Latin word "mos" meaning "custom" |
+| Acceptability | Ethics are governed by professional and legal guidelines within a particular time and place | Morality transcends cultural norms |
+
+> Ethics refer to the series of rules provided to an individual by an external source, e.g. their profession or religion.
+> Morals refer to an individual’s own principles regarding right and wrong.
+>
+> Conflict: A lawyer’s morals may tell her that murder is reprehensible and that murderers should be punished, but her ethics as a professional lawyer, require her to defend the client to the best of her abilities, even if she knows that the client is guilty.
+
+[Ethics vs Morals on Diffen](http://www.diffen.com/difference/Ethics_vs_Morals)
 
 ###2. Behavioral Psychology
 
