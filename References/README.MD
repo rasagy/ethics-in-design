@@ -50,11 +50,23 @@ Nice discussion around ethics vs morals by Andy Rutledge in comments. (Who also 
 ###2. Behavioral Psychology
 
 - Historical references: Both good & bad uses
-- Nudge
-- Misusing the [Inverted Pyramid](http://en.wikipedia.org/wiki/Inverted_pyramid)] (by hiding important info in the last section)
-- Recent: Scientific studies on What motivates people?
+- Influencing Behavior: 
+
+######[Nudge (Amazon)](http://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X)
+Book's [Wikipedia Page](http://en.wikipedia.org/wiki/Nudge_(book)), [Official Blog](http://nudges.org/) with several examples. [List of Heuristics](http://www.businessballs.com/nudge-theory.htm#heuristics-nudge-theory), [Fallacies & Biases](http://en.wikipedia.org/wiki/Nudge_(book)#Fallacies_and_biases) mentioned in the book
 - Defaults, Choice & Free Will
-- Old heuristics (Norman)
+
+######[Art of Choosing (Amazon)](http://www.amazon.com/exec/obidos/ASIN/0446504106/) by Sheena Iyengar
+Also watch her [TED Talk](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en) on the topic.
+
+- Misusing the [Inverted Pyramid](http://en.wikipedia.org/wiki/Inverted_pyramid)
+
+Hiding important info in the last section, giving false sense of security first.
+- Recent: Scientific studies on What motivates people?
+- Heuristics
+
+[Jakob Nielson's Usability Heuristics](http://www.nngroup.com/articles/ten-usability-heuristics/) & [other heuristics models](http://en.wikipedia.org/wiki/Heuristic_evaluation).
+
 - Rationale for common practices
 
 ###3. Case Studies
@@ -79,17 +91,20 @@ Two examples around A&B testing and copywriting+UI design.
 - Short term gains vs long term goals
 
 > Profit is sweet, even if it comes from deception. — Sophocles
-From the discussion around A&B testing & deception in [this A List Apart article](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design).
+
+(From the discussion around A&B testing & deception in [this A List Apart article](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design)).
 
 - Open discussion - What practices would you consider wrong?
 - One sided/biased view because of only neagtive feedback highlighted?
-- For ex: BigBazaar promotional mails & SPAM (and unsubscription as a way to confirm active account)
+- For ex: Unsubscription as a way to confirm active accounts by spammers ([more in this article](http://askleo.com/how_do_i_unsubscribe_from_all_these_unwanted_emails/))
 - Mobile VAS activations & fraud (Charts & more on [Medianama](www.medianama.com/2014/11/223-mobile-vas-fraud-is-back/))
 
 ###5. Current work wr.t. Ethics in UI/UX Design
 *(Shifted from the previous #3 order)*
 
-References around guidelines/rules (similar to what we aim to do)
+Most guidelines are around [Professional Ethics](#code-of-ethics), not about the designed product.
+
+Find references around guidelines/rules (similar to what we aim to do)
 
 ###6. Workshop: Generate draft guidelines/manifesto
 
@@ -101,17 +116,19 @@ Possible topics: Workplace anecdotes, HR/Employment practices, SPEC work, Giving
 
 [No!Spec](http://www.nospec.com/): Useful reference on SPEC (Speculative/free work)
 
-######*Code of conducts*
+######*Code of Ethics*
+Mostly around the profession, not exactly around the work/final product.
 
-[Design Professionalism](http://designprofessionalism.com/): The designer's guide to taking back your profession.
+- [Design Professionalism](http://designprofessionalism.com/): The designer's guide to taking back your profession.
 Andy Rutledge elaborates on [definitions](http://designprofessionalism.com/defining-design-professionalism-1.php), and the [final code of conducts](http://designproacademy.org/code-of-professional-conduct.html).
 
-[GDC's Code of Conduct (PDF)](https://www.gdc.net/sites/default/files/attachments/static-pages/1_3_ethics_2012.pdf)
+- [GDC's Code of Conduct (PDF)](https://www.gdc.net/sites/default/files/attachments/static-pages/1_3_ethics_2012.pdf)
 More [about the conduct](https://www.gdc.net/about/about-our-code-of-ethics).
 
-http://www.ieee.org/about/corporate/governance/p7-8.html
-http://www.acm.org/about/code-of-ethics
-http://www.nspe.org/resources/ethics/code-ethics
+- [UXPA Code of Professional Conduct](http://www.upassoc.org/about_upa/leadership/code_of_conduct.html)
+- [IEEE Code of Ethics](http://www.ieee.org/about/corporate/governance/p7-8.html)
+- [ACM Code of Ethics](http://www.acm.org/about/code-of-ethics)
+- [NSPE Code of Ethics](http://www.nspe.org/resources/ethics/code-ethics)
 
 ######*Checklists*
 [IxD Checklist](http://ixdchecklist.com/): Covers aspects of Interface, Iconography, Typography, Interaction, Navigation.
@@ -128,13 +145,9 @@ http://csciwww.etsu.edu/gotterbarn/artge2.htm
 
 http://interactivemedia.org/the-dark-side-of-user-experience/
 
-http://www.quora.com/Human-Computer-Interaction/What-could-be-the-ethical-or-moral-issues-involved-with-Human-Computer-Interaction
+[What could be the ethical or moral issues involved with HCI? (On Quora)](http://www.quora.com/Human-Computer-Interaction/What-could-be-the-ethical-or-moral-issues-involved-with-Human-Computer-Interaction)
 
 http://peterasaro.org/writing/Asaro%20Modeling%20Moral%20User.pdf
-
-http://www.netxtra.net/insights/eu-bans-pre-ticked-boxes-in-retail-websites/
-
-Malicious Interface Design: Exploiting the User by Gregory Conti & Edward Sobiesk
 
 ######["Creation without responsibility leads to destruction."](https://vimeo.com/68470326) (Webstock'13)
 Mike Monteiro speaking about designers taking responsibility for their work.
@@ -142,9 +155,27 @@ Mike Monteiro speaking about designers taking responsibility for their work.
 ######[Everyone deserves Good Design](http://www.everyonedeservesgreatdesign.com/#now)
 Ehsan Nour-salehi talking about how good intentions with a wrong mindset leads to the design of products for people that don't want them.
 
-100 Years of Design Manifestos -- http://backspace.com/notes/2009/07/design-manifestos.php
+AIGA also has a [Design Business + Ethics guide](http://www.aiga.org/design-business-and-ethics/), which is quite big and discusses multiple topics including use of fonts, illustrations, copyright etc. More around the _how_ than the _what_. 
+
+Ethics: [A Graphic Designer’s Field Guide](http://www.ethicsingraphicdesign.org/field-guide/) is a 62-page handbook, accompanied by a regularly updated [blog](http://www.ethicsingraphicdesign.org/).  
+
+Here's a short [primer on ethics in design](http://mlab.uiah.fi/polut/Yhteiskunnalliset/lisatieto_ethics_primer.html) with short _food for thought_ points.
+
+A 21-points long [Ethics for the Starving Designer](http://www.starvingforethics.com/) by a GD student from Singapore (with some beautiful lettering, and a [thesis report](http://www.starvingforethics.com/thesis.html) to accompany the project)
+
+[Don't shoot the messenger](http://www.davidthedesigner.com/davidthedesigner/2011/01/dont-shoot-the-messenger.html) raises a nice point: What happens when the messenger (/designer) disagrees with client's message?
+
+[Prof. Michael Hardt on Design & Ethics](http://www.icograda.org/feature/current/articles1651.htm) (I like the introductory example of Leni Riefenstahl's work for Nazi regime)
+
+[100 Years of Design Manifestos](http://backspace.com/notes/2009/07/design-manifestos.php)
 
 ####Books
+
+1. [The difficulty of being good](#the-difficulty-of-being-good-amazon-by-gurucharan-das-wikipedia-contact) by Gurucharan Das
+2. [The Nicomachean Ethics](#the-nicomachean-ethics-wikipedia-by-aristotle) by Aristotle
+2. [The Nudge](#nudge-amazon) by Thaler & Sunstein
+2. [Art of Choosing (Amazon)](#art-of-choosing-amazon-by-sheena-iyengar) by Sheena Iyengar
+2. [Evil by Design](#evil-by-design)
 
 --------------
 Contributions by @Venkatra, @Rasagy, @Kenneth & @Noopur.
