@@ -51,6 +51,7 @@ Nice discussion around ethics vs morals by Andy Rutledge in comments. (Who also 
 
 - Historical references: Both good & bad uses
 - Nudge
+- Misusing the [Inverted Pyramid](http://en.wikipedia.org/wiki/Inverted_pyramid)] (by hiding important info in the last section)
 - Recent: Scientific studies on What motivates people?
 - Defaults, Choice & Free Will
 - Old heuristics (Norman)
@@ -70,10 +71,16 @@ Paper by Gregory Conti & Edward Sobiesk. Useful Taxonomy of Malicious Interface 
 ######[EU bans pre-ticked website boxes to aid consumers](http://www.bbc.com/news/world-europe-15260748)
 "_Pre-ticked_" boxes on shopping websites will be banned in European Union states under newly approved legislation.
 
+######[Dark Patterns on A List Apart](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design).
+Two examples around A&B testing and copywriting+UI design.
 
 ###4. Business Propositions
 
 - Short term gains vs long term goals
+
+> Profit is sweet, even if it comes from deception. — Sophocles
+From the discussion around A&B testing & deception in [this A List Apart article](http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design).
+
 - Open discussion - What practices would you consider wrong?
 - One sided/biased view because of only neagtive feedback highlighted?
 - For ex: BigBazaar promotional mails & SPAM (and unsubscription as a way to confirm active account)
@@ -94,14 +101,24 @@ Possible topics: Workplace anecdotes, HR/Employment practices, SPEC work, Giving
 
 [No!Spec](http://www.nospec.com/): Useful reference on SPEC (Speculative/free work)
 
+######*Code of conducts*
+
+[Design Professionalism](http://designprofessionalism.com/): The designer's guide to taking back your profession.
+Andy Rutledge elaborates on [definitions](http://designprofessionalism.com/defining-design-professionalism-1.php), and the [final code of conducts](http://designproacademy.org/code-of-professional-conduct.html).
+
+[GDC's Code of Conduct (PDF)](https://www.gdc.net/sites/default/files/attachments/static-pages/1_3_ethics_2012.pdf)
+More [about the conduct](https://www.gdc.net/about/about-our-code-of-ethics).
+
+http://www.ieee.org/about/corporate/governance/p7-8.html
+http://www.acm.org/about/code-of-ethics
+http://www.nspe.org/resources/ethics/code-ethics
+
 ######*Checklists*
 [IxD Checklist](http://ixdchecklist.com/): Covers aspects of Interface, Iconography, Typography, Interaction, Navigation.
 
 ###Uncategorized references
 
 ####Sites
-
-http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design
 
 http://smallsurfaces.com/ethics-good-and-bad-design/
 
@@ -112,8 +129,6 @@ http://csciwww.etsu.edu/gotterbarn/artge2.htm
 http://interactivemedia.org/the-dark-side-of-user-experience/
 
 http://www.quora.com/Human-Computer-Interaction/What-could-be-the-ethical-or-moral-issues-involved-with-Human-Computer-Interaction
-
-http://download.springer.com/static/pdf/147/art%253A10.1007%252Fs10676-005-8308-3.pdf?auth66=1395557601_b9ce85ff1ab33963f3103bf20a0cb66b&ext=.pdf
 
 http://peterasaro.org/writing/Asaro%20Modeling%20Moral%20User.pdf
 
@@ -126,11 +141,6 @@ Mike Monteiro speaking about designers taking responsibility for their work.
 
 ######[Everyone deserves Good Design](http://www.everyonedeservesgreatdesign.com/#now)
 Ehsan Nour-salehi talking about how good intentions with a wrong mindset leads to the design of products for people that don't want them.
-
-Code of conduct:
-http://www.ieee.org/about/corporate/governance/p7-8.html
-http://www.acm.org/about/code-of-ethics
-http://www.nspe.org/resources/ethics/code-ethics
 
 100 Years of Design Manifestos -- http://backspace.com/notes/2009/07/design-manifestos.php
 
