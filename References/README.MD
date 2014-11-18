@@ -12,6 +12,8 @@ On the subtle art of dharma which analyses the epic, Mahabharata.
 ######[The Nicomachean Ethics (Wikipedia)](http://en.wikipedia.org/wiki/Nicomachean_Ethics) by Aristotle
 Considered basis of Christianity. Can be read online on [Adelaide.edu](https://ebooks.adelaide.edu.au/a/aristotle/nicomachean/complete.html), MIT ([Book-wise](http://classics.mit.edu/Aristotle/nicomachaen.html), [txt file](http://classics.mit.edu/Aristotle/nicomachaen.mb.txt)).
 
+######[The Laws of Manu (Amazon)](http://www.amazon.in/The-Laws-Manu-Penguin-Classics/dp/0140445404) by Wendy Doniger
+
 #####On Ethics vs Morals:
 
 [Ethics in Design](http://www.davidairey.com/ethics-in-design/#comment-166146) by David Airey
@@ -65,6 +67,15 @@ Book's [Wikipedia Page](http://en.wikipedia.org/wiki/Nudge_(book)), [Official Bl
 ######[Art of Choosing (Amazon)](http://www.amazon.com/exec/obidos/ASIN/0446504106/) by Sheena Iyengar
 Also watch her [TED Talk](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en) on the topic.
 
+######[Influence: The Psychology of Persuasion (Amazon)](http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X/) by by Robert B. Cialdini
+Mentions several studies & experiments. Here is a summary of his [6 Principles of Influence](http://www.influenceatwork.com/wp-content/uploads/2012/02/E_Brand_principles.pdf) (with one experiment each).
+
+######[Thinking Fast Thinking Slow (Amazon)](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman
+On human behavior, psychological basis behind everyday tasks etc. illustrated with several examples.
+
+######[Affordable Excellence: The Singapore Healthcare (Amazon)](http://www.amazon.com/Affordable-Excellence-Singapore-Healthcare-Story/dp/0815724160) by William A. Haseltine
+Also available to read [online as PDF](http://www.brookings.edu/~/media/press/books/2013/affordableexcellence/affordableexcellencepdf.pdf)
+
 More books on [Choices & Decision-making recommended by BrainPickings](http://www.brainpickings.org/2010/11/05/choice-decisions-books/).
 
 - Misusing the [Inverted Pyramid](http://en.wikipedia.org/wiki/Inverted_pyramid)
@@ -111,12 +122,15 @@ Two examples around A&B testing and copywriting+UI design.
 ###5. Current work wr.t. Ethics in UI/UX Design
 *(Shifted from the previous #3 order)*
 
-Most guidelines are around [Professional Code of Ethics](#code-of-ethics), not about the designed product.
+######[Creating moral buffers in weapon control interface design (IEEE)](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1337888) by M.L. Cummings
+How can the interface make the user more *morally* involved with the tasks? What about non-critical tasks? A nice summary on [UX Thoughts](http://www.uxthoughts.net/morality-and-user-interface-design/).
 
 ######[Design for the Real World (Amazon)](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532) & [The Green Imperative](http://www.amazon.com/The-Green-Imperative-Ecology-Architecture/dp/0500278466) by Victor Papanek
 >"There are professions more harmful than design - but only a few". 
 
 In his groundbreaking work, Design for the Real World (1971), Papanek introduced the idea of an ethics of design. Now, 25 environmentally irresponsible years later, he reiterates his plea for ecologically sound design of everything from food packaging to buildings in his book The Green Imperative.
+
+Most guidelines are around [Professional Code of Ethics](#code-of-ethics), not about the designed product.
 
 Find references around guidelines/rules (similar to what we aim to do).
 
@@ -160,10 +174,6 @@ Covers aspects of Interface, Iconography, Typography, Interaction, Navigation.
 
 ###Uncategorized references
 
-http://smallsurfaces.com/ethics-good-and-bad-design/
-
-http://anotherusefulblog.blogspot.in/2005/11/morality-and-user-interface-design.html
-
 http://csciwww.etsu.edu/gotterbarn/artge2.htm
 
 http://interactivemedia.org/the-dark-side-of-user-experience/
@@ -172,13 +182,9 @@ http://interactivemedia.org/the-dark-side-of-user-experience/
 
 http://peterasaro.org/writing/Asaro%20Modeling%20Moral%20User.pdf
 
-["Creation without responsibility leads to destruction."](https://vimeo.com/68470326) (Webstock'13)
+["Creation without responsibility leads to destruction."](https://vimeo.com/68470326) (Webstock'13): Mike Monteiro speaking about designers taking responsibility for their work.
 
-Mike Monteiro speaking about designers taking responsibility for their work.
-
-[Everyone deserves Good Design](http://www.everyonedeservesgreatdesign.com/#now)
-
-Ehsan Nour-salehi talking about how good intentions with a wrong mindset leads to the design of products for people that don't want them.
+[Everyone deserves Good Design](http://www.everyonedeservesgreatdesign.com/#now): Ehsan Nour-salehi talking about how good intentions with a wrong mindset leads to the design of products for people that don't want them.
 
 [Don't shoot the messenger](http://www.davidthedesigner.com/davidthedesigner/2011/01/dont-shoot-the-messenger.html) raises a nice point: What happens when the messenger (/designer) disagrees with client's message?
 
@@ -188,8 +194,12 @@ Ehsan Nour-salehi talking about how good intentions with a wrong mindset leads t
 
 1. [The difficulty of being good](#the-difficulty-of-being-good-amazon-by-gurucharan-das-wikipedia-contact) by Gurucharan Das
 1. [The Nicomachean Ethics](#the-nicomachean-ethics-wikipedia-by-aristotle) by Aristotle
+1. [The Laws of Manu (Amazon)](#the-laws-of-manu-amazon-by-wendy-doniger) by Wendy Doniger
 1. [The Nudge](#nudge-amazon) by Thaler & Sunstein
 1. [Art of Choosing (Amazon)](#art-of-choosing-amazon-by-sheena-iyengar) by Sheena Iyengar
+1. [Influence: The Psychology of Persuasion](#influence-the-psychology-of-persuasion-amazon-by-by-robert-b-cialdini) by by Robert B. Cialdini
+1. [Thinking Fast Thinking Slow (Amazon)](#thinking-fast-thinking-slow-amazon-by-daniel-kahneman) by Daniel Kahneman
+1. [Affordable Excellence: The Singapore Healthcare (Amazon)](#affordable-excellence-the-singapore-healthcare-amazon-by-william-a-haseltine) by William A. Haseltine
 1. [Evil by Design](#evil-by-design)
 1. [Design for the Real World (Amazon)](#design-for-the-real-world-amazon--the-green-imperative-by-victor-papanek) & [The Green Imperative](#design-for-the-real-world-amazon--the-green-imperative-by-victor-papanek) by Victor Papanek
 
