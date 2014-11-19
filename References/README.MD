@@ -122,8 +122,14 @@ Two examples around A&B testing and copywriting+UI design.
 ###5. Current work wr.t. Ethics in UI/UX Design
 *(Shifted from the previous #3 order)*
 
+######[Integrating ethics in design through the value-sensitive design approach (Springer)](http://link.springer.com/article/10.1007%2Fs11948-006-0065-0) by M.L. Cummings
+
 ######[Creating moral buffers in weapon control interface design (IEEE)](http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=1337888) by M.L. Cummings
 How can the interface make the user more *morally* involved with the tasks? What about non-critical tasks? A nice summary on [UX Thoughts](http://www.uxthoughts.net/morality-and-user-interface-design/).
+
+######[Modeling the Moral User (IEEE)](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4799403) by Peter M. Asaro
+
+######[What Values in Design? The Challenge of Incorporating Moral Values into Design (NCBI)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124645/)
 
 ######[Design for the Real World (Amazon)](http://www.amazon.com/Design-Real-World-Ecology-Social/dp/0897331532) & [The Green Imperative](http://www.amazon.com/The-Green-Imperative-Ecology-Architecture/dp/0500278466) by Victor Papanek
 >"There are professions more harmful than design - but only a few". 
