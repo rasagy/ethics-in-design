@@ -116,7 +116,7 @@ Two examples around A&B testing and copywriting+UI design.
 
 - Open discussion - What practices would you consider wrong?
 - One sided/biased view because of only neagtive feedback highlighted?
-- For ex: Unsubscription as a way to confirm active accounts by spammers ([more in this article](http://askleo.com/how_do_i_unsubscribe_from_all_these_unwanted_emails/))
+- For ex: Unsubscription as a way to confirm active accounts by spammers ([more in this article](http://askleo.com/how_do_i_unsubscribe_from_all_these_unwanted_emails/) & this thread on [why they have broken English](https://www.quora.com/Why-are-email-scams-written-in-broken-English))
 - Mobile VAS activations & fraud (Charts & more on [Medianama](www.medianama.com/2014/11/223-mobile-vas-fraud-is-back/))
 
 ###5. Current work wr.t. Ethics in UI/UX Design
@@ -195,6 +195,10 @@ http://peterasaro.org/writing/Asaro%20Modeling%20Moral%20User.pdf
 [Don't shoot the messenger](http://www.davidthedesigner.com/davidthedesigner/2011/01/dont-shoot-the-messenger.html) raises a nice point: What happens when the messenger (/designer) disagrees with client's message?
 
 [100 Years of Design Manifestos](http://backspace.com/notes/2009/07/design-manifestos.php)
+
+[On Quora: The most unsportsmanship conduct](https://www.quora.com/What-is-the-most-unsportsmanlike-conduct-you-have-seen-in-any-sport)
+
+[Paralymipics Spanish Basketball team scam](http://blogs.telegraph.co.uk/sport/garethadavies/100024764/will-greatest-paralympic-scandal-ever-go-away-as-intellectually-disabled-athletes-return-in-2012/)
 
 ####Books
 
