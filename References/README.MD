@@ -64,6 +64,8 @@ Nice introductory example of Leni Riefenstahl's work for Nazi regime
 Book's [Wikipedia Page](http://en.wikipedia.org/wiki/Nudge_(book)), [Official Blog](http://nudges.org/) with several examples. [List of Heuristics](http://www.businessballs.com/nudge-theory.htm#heuristics-nudge-theory), [Fallacies & Biases](http://en.wikipedia.org/wiki/Nudge_(book)#Fallacies_and_biases) mentioned in the book.
 - Defaults, Choice & Free Will
 
+######[The Ethics of Nudging](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2526341)
+
 ######[Art of Choosing (Amazon)](http://www.amazon.com/exec/obidos/ASIN/0446504106/) by Sheena Iyengar
 Also watch her [TED Talk](http://www.ted.com/talks/sheena_iyengar_on_the_art_of_choosing?language=en) on the topic.
 
