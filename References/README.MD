@@ -75,8 +75,8 @@ Mentions several studies & experiments. Here is a summary of his [6 Principles o
 ######[Thinking Fast Thinking Slow (Amazon)](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) by Daniel Kahneman
 On human behavior, psychological basis behind everyday tasks etc. illustrated with several examples.
 
-######[Affordable Excellence: The Singapore Healthcare (Amazon)](http://www.amazon.com/Affordable-Excellence-Singapore-Healthcare-Story/dp/0815724160) by William A. Haseltine
-Also available to read [online as PDF](http://www.brookings.edu/~/media/press/books/2013/affordableexcellence/affordableexcellencepdf.pdf)
+######[Behavioural Economics and Policy Design: Examples from Singapore (Amazon)](http://www.amazon.com/Behavioural-Economics-Policy-Design-Singapore/dp/9814366005)
+This book demonstrates how successful policies in Singapore have integrated conventional economic principles with insights from the emerging field of behavioural economics
 
 More books on [Choices & Decision-making recommended by BrainPickings](http://www.brainpickings.org/2010/11/05/choice-decisions-books/).
 
@@ -211,7 +211,7 @@ http://peterasaro.org/writing/Asaro%20Modeling%20Moral%20User.pdf
 1. [Art of Choosing (Amazon)](#art-of-choosing-amazon-by-sheena-iyengar) by Sheena Iyengar
 1. [Influence: The Psychology of Persuasion](#influence-the-psychology-of-persuasion-amazon-by-by-robert-b-cialdini) by by Robert B. Cialdini
 1. [Thinking Fast Thinking Slow (Amazon)](#thinking-fast-thinking-slow-amazon-by-daniel-kahneman) by Daniel Kahneman
-1. [Affordable Excellence: The Singapore Healthcare (Amazon)](#affordable-excellence-the-singapore-healthcare-amazon-by-william-a-haseltine) by William A. Haseltine
+1. [Behavioural Economics and Policy Design: Examples from Singapore](#behavioural-economics-and-policy-design-examples-from-singapore-amazon)
 1. [Evil by Design](#evil-by-design)
 1. [Design for the Real World (Amazon)](#design-for-the-real-world-amazon--the-green-imperative-by-victor-papanek) & [The Green Imperative](#design-for-the-real-world-amazon--the-green-imperative-by-victor-papanek) by Victor Papanek
 
