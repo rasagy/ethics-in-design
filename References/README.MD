@@ -1,6 +1,16 @@
 Reference
 ==========
-Ongoing compilation of list of References for the workshop.
+Jump to: 
+
+1. [Philosophical & Historical perspective](#1-philosophical--historical-perspective)
+1. [Behavioral Psychology](#2-behavioral-psychology)
+1. [Case Studies](#3-case-studies)
+1. [Business Propositions](#4-business-propositions)
+1. [Current work wr.t. Ethics in UI/UX Design](#5-current-work-wrt-ethics-in-uiux-design)
+1. [Workshop: Generate draft guidelines/manifesto](#6-workshop-generate-draft-guidelinesmanifesto)
+1. [Uncategorized references](#uncategorized-references)
+1. [Books](#books)
+
 
 ###1. Philosophical & Historical perspective
 
@@ -121,7 +131,7 @@ Two examples around A&B testing and copywriting+UI design.
 - For ex: Unsubscription as a way to confirm active accounts by spammers ([more in this article](http://askleo.com/how_do_i_unsubscribe_from_all_these_unwanted_emails/) & this thread on [why they have broken English](https://www.quora.com/Why-are-email-scams-written-in-broken-English))
 - Mobile VAS activations & fraud (Charts & more on [Medianama](www.medianama.com/2014/11/223-mobile-vas-fraud-is-back/))
 
-###5. Current work wr.t. Ethics in UI/UX Design
+###5. Current work w.r.t. Ethics in UI/UX Design
 *(Shifted from the previous #3 order)*
 
 ######[Integrating ethics in design through the value-sensitive design approach (Springer)](http://link.springer.com/article/10.1007%2Fs11948-006-0065-0) by M.L. Cummings
