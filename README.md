@@ -3,7 +3,7 @@ Ethics in UI/UX Design
 
 Repository for sharing material for the [IndiaHCI 2014 workshop](http://indiahci2014.in/workshops.html#ethics).
 
-Conducted by [Venkatesh Rajamanickam](https://twitter.com/venkatrajam). Assisted by [Rasagy Sharma](https://twitter.com/rasagy) & [Noopur Varma](https://twitter.com/Noopur_v)
+Conducted by [Venkatesh Rajamanickam](https://twitter.com/venkatrajam), [Rasagy Sharma](https://twitter.com/rasagy) & [Noopur Varma](https://twitter.com/Noopur_v)
 
 ###Quick Links for downloading:
 ####Slides
